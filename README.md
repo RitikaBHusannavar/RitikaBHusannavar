@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RitikaBhusannavar
-- 👀 I’m interested in java and android development
+- 👀 I’m interested in c#, java and android development 
 - 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate 
+- 💞️ I’m looking to job 
 - 📫 How to reach me 7975886391
 
 <!---
