@@ -2,7 +2,6 @@
 - 👀 I’m interested in c#, java and android development 
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to job 
-- 📫 How to reach me 7975886391
 
 <!---
 RitikaBHusannavar/RitikaBHusannavar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
